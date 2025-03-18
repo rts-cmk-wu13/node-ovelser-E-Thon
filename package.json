@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/rts-cmk-wu13/node-ovelser-E-Thon/issues"
   },
-  "homepage": "https://github.com/rts-cmk-wu13/node-ovelser-E-Thon#readme"
+  "homepage": "https://github.com/rts-cmk-wu13/node-ovelser-E-Thon#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
+
+
